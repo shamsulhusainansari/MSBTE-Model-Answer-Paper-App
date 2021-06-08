@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MSBTE Model Answer Papers</string>
+    <string name="question_papers">Question Papers</string>
+    <string name="answer_papers">Answer Papers</string>
+    <string name="branch">Branch</string>
+    <string name="semester">Semester</string>
+    <string name="paper_year">Paper year</string>
+    <string name="paper_name">Paper name</string>
+    <string name="todo">TODO</string>
+</resources>

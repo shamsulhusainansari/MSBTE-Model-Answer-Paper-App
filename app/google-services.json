@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090661029263",
+    "firebase_url": "https://msbte-papers-for-i-scheme.firebaseio.com",
+    "project_id": "msbte-papers-for-i-scheme",
+    "storage_bucket": "msbte-papers-for-i-scheme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090661029263:android:5ee15948e746f2251967fa",
+        "android_client_info": {
+          "package_name": "com.knoxtech.msbtepapersforischeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090661029263-d37nkvih4a6s22enct2gu614ff7oofbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sSmeFr3dkXhZ3_HaIg2hxTX7sWhWrbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090661029263-d37nkvih4a6s22enct2gu614ff7oofbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
